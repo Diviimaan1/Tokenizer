@@ -9,3 +9,4 @@ A custom JavaScript tokenizer that can **learn vocabulary from text**, **encode 
 - Supports special tokens (`<BOS>`, `<EOS>`)
 - Works as a package in Node.js
  
+ ![Demo](./screenshots/demo.png)
