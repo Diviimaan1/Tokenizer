@@ -1,0 +1,16 @@
+{
+  "name": "tokenizer",
+  "version": "1.0.0",
+  "description": "(Custom tokenizer with encode/decode and special token support)",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tokenizer",
+    "encode",
+    "decode"
+  ],
+  "author": "Digvijay",
+  "license": "ISC"
+}
