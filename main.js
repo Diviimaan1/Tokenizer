@@ -11,7 +11,7 @@ function encode(input) {
     }
 
     tokenIds.push(EOS_ID);
-    console.log(tokenIds);
+    // console.log(tokenIds);
     return tokenIds;
 }
 
@@ -28,7 +28,7 @@ function decode(tokenIds) {
         chars.push(String.fromCharCode(id));
     }
     const text = chars.join("");
-    console.log(text);
+    // console.log(text);
     return text;
 }
 module.exports = { encode, decode };
